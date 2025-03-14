@@ -18,15 +18,9 @@ https://github.com/user-attachments/assets/23441d6b-0430-4d27-a0b6-5b02c6e95044
 
  
 ## To-Do List
-1️⃣ Apply Physics
-<br>
-2️⃣ Spawning Projectiles
-<br>
-3️⃣ Aiming the Projectile
-<br>
-4️⃣ Building a Level
-<br>
-5️⃣ Limiting Ammo
-<br>
-6️⃣ Reload Level
-
+- [x] 1️⃣ Apply Physics
+- [x] 2️⃣ Spawning Projectiles
+- [x] 3️⃣ Aiming the Projectile
+- [x] 4️⃣ Building a Level
+- [x] 5️⃣ Limiting Ammo
+- [x] 6️⃣ Reload Level
